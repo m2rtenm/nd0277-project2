@@ -4,8 +4,8 @@ from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
 ########################################
 # Update connection string information #
 ########################################
-host = "postgre-m2rten.postgres.database.azure.com"
-user = "m2rten"
+host = "udacity-azure-dwh-db.postgres.database.azure.com"
+user = "postgre"
 password = "Project2Test!"
 
 # Create a new DB

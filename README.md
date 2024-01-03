@@ -4,11 +4,7 @@ Divvy is a bike sharing program in Chicago, Illinois USA that allows riders to p
 
 Since the data from Divvy are anonymous, we have created fake rider and account profiles along with fake payment data to go along with the data from Divvy. The dataset provided by Udacity looks like this:
 
-<img src="screenshots/divvy-erd.png" title="divvy-erd">
-
-This is actually wrong because there were provided only four data files and they form together the following dataset:
-
-<img src="screenshots/Divvy.jpg" title="divvy">
+<img src="screenshots/dend-project-erd.jpeg" title="divvy">
 
 ## The goal of this project
 
